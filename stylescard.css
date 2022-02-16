@@ -41,12 +41,14 @@ main{
     background-color: #7C66B7;
     padding: 1rem;
     width:200px;
+    box-shadow: 0 0 3px 1.5px #52427e8e;
 }
 
 .preview {
     border-radius: 8px;
     height: 180px;
     width: 100%;    
+    box-shadow: 0 0 3px 3px #52427e8e;
 }
 
 h3 {
@@ -54,10 +56,13 @@ h3 {
     font-size: 17px;
     color: white;
     letter-spacing: 3px;
+    font-weight: 500;
 }
 
 .press p {
     font-family: rowdies;
+    font-size: 14px;
+    font-weight: 500;
     color: white;
     display: flex;
     margin-top: 0.3rem;
@@ -68,12 +73,16 @@ h3 {
 .cost {
     font-family: rowdies;
     font-size: 14px;
+    font-weight: 500;
     color: white;
+    margin-top: 10px;
 }
 span {
     color: rgb(50, 245, 11);
     font-family: rowdies;
     font-size: 14px;
+    margin-top: 10px
+    font-weight: 500;
     float: right;
 }
 
@@ -87,6 +96,7 @@ span {
     color: rgb(0, 0, 0);
     font-family: rowdies;
     letter-spacing: 0.6px;
+    box-shadow: 0 0 3px 1px #52427e8e;
 }
 
 section footer button:hover{
