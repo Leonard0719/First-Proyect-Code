@@ -6,7 +6,7 @@
 body {
     padding: 0;
     margin: 0;
-    background-color: rgb(177, 177, 177);
+    background-color: rgb(206, 200, 200);
 }
 
 #logo {
@@ -32,23 +32,23 @@ main{
     gap: 1.5rem;
     margin: 2rem;
     padding: 2rem;
-    background-color: #8D99AE;
+    background-color: #8894AA;
     border-radius: 8px;
 }
 
 .press {
     border-radius: 8px ;
-    background-color: #2B2D42;
+    background-color: #282A3E;
     padding: 1rem;
     width:200px;
-    box-shadow: 0 0 3px 1.5px #52427e8e;
+    box-shadow: 0 0 3px 1.5px #181925;
 }
 
 .preview {
     border-radius: 8px;
     height: 180px;
     width: 100%;    
-    box-shadow: 0 0 3px 3px #52427e8e;
+    box-shadow: 0 0 3px 3px #181925;
 }
 
 h3 {
