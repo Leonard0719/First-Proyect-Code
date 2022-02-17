@@ -41,14 +41,14 @@ main{
     background-color: #282A3E;
     padding: 1rem;
     width:200px;
-    box-shadow: 0 0 3px 1.5px #181925;
+    box-shadow: 0 0 3px 1.5px #18192582;
 }
 
 .preview {
     border-radius: 8px;
     height: 180px;
     width: 100%;    
-    box-shadow: 0 0 3px 3px #181925;
+    box-shadow: 0 0 3px 3px #181925a3;
 }
 
 h3 {
