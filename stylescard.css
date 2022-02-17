@@ -6,7 +6,7 @@
 body {
     padding: 0;
     margin: 0;
-    background-color: rgb(226, 226, 226);
+    background-color: rgb(177, 177, 177);
 }
 
 #logo {
@@ -19,7 +19,7 @@ h1{
     padding: 2rem;
     margin: 0;
     color: rgb(255, 255, 255);
-    background-color: #6064D2;
+    background-color: #2B2D42;
     text-align: center;
     font-family: rowdies;
     font-size: 3rem;
@@ -32,13 +32,13 @@ main{
     gap: 1.5rem;
     margin: 2rem;
     padding: 2rem;
-    background-color: #CEBACF;
+    background-color: #8D99AE;
     border-radius: 8px;
 }
 
 .press {
     border-radius: 8px ;
-    background-color: #7C66B7;
+    background-color: #2B2D42;
     padding: 1rem;
     width:200px;
     box-shadow: 0 0 3px 1.5px #52427e8e;
@@ -78,7 +78,7 @@ h3 {
     margin-top: 10px;
 }
 span {
-    color: rgb(50, 245, 11);
+    color: rgb(245, 136, 11);
     font-family: rowdies;
     font-size: 14px;
     margin-top: 10px;
